@@ -7,4 +7,5 @@
         alert("How are you")
 
     } 
+    yash()
     demo()
