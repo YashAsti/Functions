@@ -4,6 +4,7 @@
 
     }   
     function yash(){
-        
+        alert("How are you")
+
     } 
     demo()
